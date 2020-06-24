@@ -10,8 +10,3 @@ In pellentesque ullamcorper odio a consequat. Morbi consectetur feugiat molestie
 * Liebt Kirschen
 * Macht Eistee
 * Hört Klassik
-
-# Ich sage immer wieder
-
-> Wer schlau ist lebt gesünder und
-> macht nicht so viel Fehler
